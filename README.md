@@ -1,6 +1,6 @@
 # Table - Test Table 
 
-This is a test table showing height, weight and red eyes percentage result of gender [one of my training project with hertecttrail web-developer Starter]
+This is a test table showing height, weight and red eyes percentage result of gender [one of my training project with hertecttrail web-development Starter]
 
 # Table of content
 
@@ -48,7 +48,7 @@ I practiced my knowledge of advance html5 table with internal css styling in bui
 
 (https://www.htmlgoodies.com/html5/advanced-html-table-features/)
 
-This helpes me while I was brainstorming on how to have an advance html5 table with merged cell.
+This helped me while I was brainstorming on how to have an advance html5 table with merged cell.
 
 
 ### Author 
