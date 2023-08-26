@@ -8,7 +8,7 @@ This is a test table showing height, weight and red eyes percentage result of ge
 - [Table of content](#table-of-content)
     - [Project Task](#project-task)
     - [Links](#links)
-  - [My Process](#my-process)
+  - [My Processg](#my-processg)
     - [Built With](#built-with)
     - [What I Learned](#what-i-learned)
     - [Useful Resources](#useful-resources)
@@ -20,7 +20,7 @@ This is a test table showing height, weight and red eyes percentage result of ge
 
 This shows :
 
-- Overall test result in a merged cell form
+- Overall test result in a merged cell table
 - The percentage of each group
 
 
@@ -30,7 +30,7 @@ This shows :
 - Live Site URL (https://64e379f51db18c24a4c5ab34--idyllic-dragon-cec59b.netlify.app/)
 
 
-## My Process
+## My Processg
 
 I started this project by first writing the respective HTML codes and input my internal CSS styling. 
 
