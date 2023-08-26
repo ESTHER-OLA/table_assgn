@@ -59,5 +59,5 @@ This helped me while I was brainstorming on how to have an advance html5 table w
 
 ### Aknowledgement
 
-I want to appreciate my mentor @princessmaggy for her apts, explanatory coaching and encouragement given to do better in the process of my training. I'm so glad to have learned all that I have and I look forward to learn more in this process of my training in hertechtrail cohort7. Thank you,coach.
+I want to appreciate my mentor @princessmaggy for her apts, explanatory coaching and encouragement given in the process of my training. I'm so glad to have learned all that I have and I look forward to learn more. Thank you,coach.
 
