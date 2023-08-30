@@ -8,7 +8,7 @@ This is a test table showing height, weight and red eyes percentage result of ge
 - [Table of content](#table-of-content)
     - [Project Task](#project-task)
     - [Links](#links)
-  - [My Processg](#my-process)
+  - [My Process](#my-process)
     - [Built With](#built-with)
     - [What I Learned](#what-i-learned)
     - [Useful Resources](#useful-resources)
