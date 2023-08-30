@@ -30,7 +30,7 @@ This shows :
 - Live Site URL (https://64e379f51db18c24a4c5ab34--idyllic-dragon-cec59b.netlify.app/)
 
 
-## My Processg
+## My Process
 
 I started this project by first writing the respective HTML codes and input my internal CSS styling. 
 
